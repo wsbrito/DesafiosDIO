@@ -13,3 +13,4 @@ Os notebooks encontram-se na raiz da pasta e são referentes aos seguintes desaf
 
 ## Na pasta Nexa
 - Na pasta [Transcrevendo_uma_Imagem_em_Texto_com_AWS_Textract](https://github.com/wsbrito/DesafiosDIO/tree/main/Nexa/Transcrevendo_uma_Imagem_em_Texto_com_AWS_Textract) o arquivo **main.ipynb** com minha solução para o desafio **Transcrevendo uma Imagem em Texto com AWS Textract**
+- Na pasta [AWS_Rekognition-Detectando_Celebridades_em_Imagens](https://github.com/wsbrito/DesafiosDIO/tree/main/Nexa/AWS_Rekognition-Detectando_Celebridades_em_Imagens) o arquivo **main.ipynb** com minha solução para o desafio **AWS Rekognition - Detectando Celebridades em Imagens**
