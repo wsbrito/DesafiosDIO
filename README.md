@@ -12,4 +12,4 @@ Os notebooks encontram-se na raiz da pasta e são referentes aos seguintes desaf
 - [Treinamento de Redes Neurais com Transfer Learning](https://github.com/wsbrito/DesafiosDIO/blob/main/BairesDev/Desafio_Treinamento_de_Redes_Neurais_com_Transfer_Learning.ipynb)
 
 ## Na pasta Nexa
-- Na pasta Transcrevendo_uma_Imagem_em_Texto_com_AWS_Textract (Nexa/Transcrevendo_uma_Imagem_em_Texto_com_AWS_Textract) o arquivo **main.ipynb** com minha solução para o desafio **Transcrevendo uma Imagem em Texto com AWS Textract**
+- Na pasta [Transcrevendo_uma_Imagem_em_Texto_com_AWS_Textract] (https://github.com/wsbrito/DesafiosDIO/tree/main/Nexa/Transcrevendo_uma_Imagem_em_Texto_com_AWS_Textract) o arquivo **main.ipynb** com minha solução para o desafio **Transcrevendo uma Imagem em Texto com AWS Textract**
